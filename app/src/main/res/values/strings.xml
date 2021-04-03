@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextFields</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="label_login">LOGIN</string>
+    <string name="msg_email">Preencha com seu email</string>
+    <string name="msg_password">Preencha com seu password</string>
+</resources>
